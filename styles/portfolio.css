@@ -38,6 +38,17 @@
   margin-top: 10px;
 }
 
+.contact-btn {
+  background-color: white;
+  color: #FD6E0A;
+  border: 1px solid #FD6E0A;
+}
+
+.fa-solid fa-phone {
+  
+  color: white;
+}
+
 .section-title {
   font-size: 35px;
   font-weight: bold;
